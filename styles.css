@@ -38,6 +38,10 @@ header {
     transition: 0.083s 0.04s;
 }
 
+.nav a:link {
+    color: black
+}
+
 .nav a:visited {
     color: black
 }
